@@ -46,7 +46,7 @@ const prompts = [
   ['push', 'Push?'],
   ['ghRelease', 'Create a release on GitHub (Release 1.0.0)?'],
   ['glRelease', 'Create a release on GitLab (Release 1.0.0)?'],
-  ['publish', 'Publish release-it@next to npm?'],
+  ['publish', 'Publish @unibtc/release-it@next to npm?'],
   ['otp', 'Please enter OTP for npm:']
 ];
 
