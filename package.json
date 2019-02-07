@@ -1,6 +1,6 @@
 {
   "name": "@unibtc/release-it",
-  "version": "10.1.4",
+  "version": "10.1.5",
   "description": "CLI release tool for Git repos and npm packages.",
   "publishConfig": {
     "access": "public"
